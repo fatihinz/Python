@@ -1,0 +1,4 @@
+x=int(input("bir sayi giriniz"))
+print x
+if x<100:
+print("kucuk")
